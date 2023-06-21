@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@400;600&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-image: url('https://images.unsplash.com/20/bw-room.JPG?ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMG9mZmljZXxlbnwwfHx8fDE2ODY5OTA2ODZ8MA&ixlib=rb-4.0.3');
+}
+
+section{
+    background-color: white;
+    height: 670px;
+    margin: 20px 50px;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    padding-top: 30px;
+    margin-bottom: 15px;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+h3{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+p{
+    margin: auto 150px;
+    color: rgb(91, 91, 91);
+}
+
+hr{
+    width: 100px;
+    height: 3px;
+    background-color: red;  
+}
+
+table{
+    text-align: left;
+    margin-left:100px;
+    margin-top: 50px;
+    
+}
+
+i{
+    color: white;
+    font-size: 20px;
+    background-color: red;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.left{
+    line-height: 1;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+tr{
+    margin: 5px;
+}
+
+button{
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+.input{
+    margin-left:260%;
+    font-size: larger;
+    height:200px;
+    width: 200px;
+    line-height: 3;
+    margin-left: 200px;
+    margin-bottom: 120px;
+}
+
+input{
+    width: 500px;
+    height: 40px;
+}
+
+textarea{
+    margin-top: 10px;
+}
